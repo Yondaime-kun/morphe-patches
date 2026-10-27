@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">채널 검색 결과</string>
   <string name="morphe_channel_search_no_results">이 채널에서 아무것도 찾을 수 없습니다</string>
   <string name="morphe_channel_search_failed">이 채널을 검색할 수 없습니다</string>
+  <string name="morphe_channel_search_videos">동영상</string>
+  <string name="morphe_channel_search_posts">게시물</string>
+  <string name="morphe_channel_search_no_posts">이 채널에 일치하는 게시물이 없습니다</string>
   <string name="morphe_channel_search_sort_relevance">관련성순</string>
   <string name="morphe_channel_search_sort_most_viewed">최다 조회순</string>
   <string name="morphe_channel_search_sort_least_viewed">최저 조회순</string>

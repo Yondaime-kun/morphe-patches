@@ -409,6 +409,9 @@ Les signalements sont publics et sont examinés avant qu'une chaîne ne soit ajo
   <string name="morphe_channel_search_results">Résultats de recherche de chaînes</string>
   <string name="morphe_channel_search_no_results">Aucun résultat trouvé sur cette chaîne</string>
   <string name="morphe_channel_search_failed">Impossible d\'effectuer une recherche sur cette chaîne</string>
+  <string name="morphe_channel_search_videos">Vidéos</string>
+  <string name="morphe_channel_search_posts">Posts</string>
+  <string name="morphe_channel_search_no_posts">Aucun post sur cette chaîne ne correspond</string>
   <string name="morphe_channel_search_sort_relevance">Pertinence</string>
   <string name="morphe_channel_search_sort_most_viewed">Les plus vues</string>
   <string name="morphe_channel_search_sort_least_viewed">Les moins vues</string>

@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">चैनल खोज परिणाम</string>
   <string name="morphe_channel_search_no_results">इस चैनल पर कुछ नहीं मिला</string>
   <string name="morphe_channel_search_failed">इस चैनल में खोज नहीं की जा सकी</string>
+  <string name="morphe_channel_search_videos">वीडियो</string>
+  <string name="morphe_channel_search_posts">पोस्ट</string>
+  <string name="morphe_channel_search_no_posts">इस चैनल पर कोई पोस्ट मेल नहीं खाता</string>
   <string name="morphe_channel_search_sort_relevance">प्रासंगिकता</string>
   <string name="morphe_channel_search_sort_most_viewed">सबसे अधिक देखे गए</string>
   <string name="morphe_channel_search_sort_least_viewed">सबसे कम देखे गए</string>

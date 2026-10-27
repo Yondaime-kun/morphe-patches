@@ -409,6 +409,9 @@ Rapporten zijn openbaar en worden beoordeeld voordat een kanaal aan een lijst wo
   <string name="morphe_channel_search_results">Zoekresultaten voor kanalen</string>
   <string name="morphe_channel_search_no_results">Niets gevonden op dit kanaal</string>
   <string name="morphe_channel_search_failed">Kan dit kanaal niet doorzoeken</string>
+  <string name="morphe_channel_search_videos">Video\'s</string>
+  <string name="morphe_channel_search_posts">Berichten</string>
+  <string name="morphe_channel_search_no_posts">Geen berichten op dit kanaal komen overeen</string>
   <string name="morphe_channel_search_sort_relevance">Relevantie</string>
   <string name="morphe_channel_search_sort_most_viewed">Meest bekeken</string>
   <string name="morphe_channel_search_sort_least_viewed">Minst bekeken</string>
@@ -442,6 +445,7 @@ Rapporten zijn openbaar en worden beoordeeld voordat een kanaal aan een lijst wo
   <string name="morphe_post_image_download_flyout_single">Afbeelding downloaden</string>
   <string name="morphe_post_image_download_started">{one,1 afbeelding downloaden…|other,%s afbeeldingen downloaden…}</string>
   <string name="morphe_post_image_download_started_single">Afbeelding downloaden…</string>
+  <string name="morphe_post_image_download_saved">%1$s afbeeldingen opgeslagen in %2$s</string>
   <string name="morphe_post_image_download_saved_single">Afbeelding opgeslagen in %s</string>
   <string name="morphe_post_image_download_failed">De afbeelding kon niet worden gedownload</string>
   <string name="morphe_post_image_download_not_found">Geen afbeelding gevonden in dit bericht</string>

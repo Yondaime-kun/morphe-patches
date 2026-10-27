@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">頻道搜尋結果</string>
   <string name="morphe_channel_search_no_results">此頻道找不到任何結果</string>
   <string name="morphe_channel_search_failed">無法搜尋此頻道</string>
+  <string name="morphe_channel_search_videos">影片</string>
+  <string name="morphe_channel_search_posts">貼文</string>
+  <string name="morphe_channel_search_no_posts">此頻道中沒有符合條件的貼文</string>
   <string name="morphe_channel_search_sort_relevance">相關性</string>
   <string name="morphe_channel_search_sort_most_viewed">觀看次數最多</string>
   <string name="morphe_channel_search_sort_least_viewed">觀看次數最少</string>

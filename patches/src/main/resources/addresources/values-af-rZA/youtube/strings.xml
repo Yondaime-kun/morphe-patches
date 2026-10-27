@@ -409,6 +409,9 @@ Verslae is openbaar en word nagegaan voordat 'n kanaal by 'n lys gevoeg word. Ve
   <string name="morphe_channel_search_results">Kanaalsoekresultate</string>
   <string name="morphe_channel_search_no_results">Niks op hierdie kanaal gevind nie</string>
   <string name="morphe_channel_search_failed">Kon nie hierdie kanaal deursoek nie</string>
+  <string name="morphe_channel_search_videos">Video\'s</string>
+  <string name="morphe_channel_search_posts">Plasinge</string>
+  <string name="morphe_channel_search_no_posts">Geen plasinge op hierdie kanaal stem ooreen nie</string>
   <string name="morphe_channel_search_sort_relevance">Relevansie</string>
   <string name="morphe_channel_search_sort_most_viewed">Meeste gekyk</string>
   <string name="morphe_channel_search_sort_least_viewed">Minste gekyk</string>

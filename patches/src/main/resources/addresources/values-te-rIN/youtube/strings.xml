@@ -72,6 +72,8 @@ Second \"item\" text"</string>
   <!-- layout.feedviews.feedViewCountPatch -->
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- interaction.searchcomments.searchCommentsPatch -->
+  <string name="morphe_search_comments_search">శోధించు </string>
+  <string name="morphe_search_comments_clear">క్లియర్ చేయి</string>
   <!-- layout.hide.signintotv.disableSignInToTVPopupPatch -->
   <!-- interaction.doubletap.disableDoubleTapActionsPatch -->
   <!-- interaction.downloads.downloadsPatch -->

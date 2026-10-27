@@ -409,6 +409,9 @@ Zgłoszenia są publiczne i podlegają weryfikacji przed dodaniem kanału do lis
   <string name="morphe_channel_search_results">Wyniki wyszukiwania kanałów</string>
   <string name="morphe_channel_search_no_results">Nic nie znaleziono na tym kanale</string>
   <string name="morphe_channel_search_failed">Nie udało się przeszukać tego kanału</string>
+  <string name="morphe_channel_search_videos">Filmy</string>
+  <string name="morphe_channel_search_posts">Posty</string>
+  <string name="morphe_channel_search_no_posts">Brak pasujących postów na tym kanale</string>
   <string name="morphe_channel_search_sort_relevance">Trafność</string>
   <string name="morphe_channel_search_sort_most_viewed">Najpopularniejsze</string>
   <string name="morphe_channel_search_sort_least_viewed">Najrzadziej oglądane</string>

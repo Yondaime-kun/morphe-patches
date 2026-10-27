@@ -409,6 +409,9 @@ Prijave su javne i pregledaju se pre nego što kanal bude dodat na listu. Uklanj
   <string name="morphe_channel_search_results">Rezultati pretrage kanala</string>
   <string name="morphe_channel_search_no_results">Ništa nije pronađeno na ovom kanalu</string>
   <string name="morphe_channel_search_failed">Pretraga ovog kanala nije uspela</string>
+  <string name="morphe_channel_search_videos">Video snimci</string>
+  <string name="morphe_channel_search_posts">Objave</string>
+  <string name="morphe_channel_search_no_posts">Nijedna objava na ovom kanalu se ne poklapa</string>
   <string name="morphe_channel_search_sort_relevance">Relevantnost</string>
   <string name="morphe_channel_search_sort_most_viewed">Najgledanije</string>
   <string name="morphe_channel_search_sort_least_viewed">Najmanje gledano</string>
@@ -442,6 +445,7 @@ Prijave su javne i pregledaju se pre nego što kanal bude dodat na listu. Uklanj
   <string name="morphe_post_image_download_flyout_single">Preuzmi sliku</string>
   <string name="morphe_post_image_download_started">Preuzimanje %s slika…</string>
   <string name="morphe_post_image_download_started_single">Preuzimanje slike…</string>
+  <string name="morphe_post_image_download_saved">%1$s slika je sačuvano u %2$s</string>
   <string name="morphe_post_image_download_saved_single">Slika je sačuvana u %s</string>
   <string name="morphe_post_image_download_failed">Nije bilo moguće preuzeti sliku</string>
   <string name="morphe_post_image_download_not_found">U ovoj objavi nije pronađena slika</string>

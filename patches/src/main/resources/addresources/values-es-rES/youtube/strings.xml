@@ -409,6 +409,9 @@ Los reportes son públicos y se revisan antes de añadir un canal a una lista. L
   <string name="morphe_channel_search_results">Resultados de búsqueda del canal</string>
   <string name="morphe_channel_search_no_results">No se encontró nada en este canal</string>
   <string name="morphe_channel_search_failed">No se pudo buscar en este canal</string>
+  <string name="morphe_channel_search_videos">Vídeos</string>
+  <string name="morphe_channel_search_posts">Publicaciones</string>
+  <string name="morphe_channel_search_no_posts">No hay publicaciones en este canal que coincidan</string>
   <string name="morphe_channel_search_sort_relevance">Relevancia</string>
   <string name="morphe_channel_search_sort_most_viewed">Más vistos</string>
   <string name="morphe_channel_search_sort_least_viewed">Menos vistos</string>

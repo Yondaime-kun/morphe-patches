@@ -409,6 +409,9 @@ Prijave so javne in so pregledane, preden je kanal dodan na seznam. Odstranitev 
   <string name="morphe_channel_search_results">Rezultati iskanja kanalov</string>
   <string name="morphe_channel_search_no_results">Na tem kanalu ni najdenih rezultatov.</string>
   <string name="morphe_channel_search_failed">Iskanje po tem kanalu ni uspelo.</string>
+  <string name="morphe_channel_search_videos">Videoposnetki</string>
+  <string name="morphe_channel_search_posts">Objave</string>
+  <string name="morphe_channel_search_no_posts">Na tem kanalu ni objav, ki bi ustrezale iskanju</string>
   <string name="morphe_channel_search_sort_relevance">Ustreznost</string>
   <string name="morphe_channel_search_sort_most_viewed">Najbolj gledani</string>
   <string name="morphe_channel_search_sort_least_viewed">Najmanj gledani</string>

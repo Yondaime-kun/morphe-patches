@@ -409,6 +409,9 @@ Raportit ovat julkisia ja ne tarkistetaan ennen kuin kanava lisätään listaan.
   <string name="morphe_channel_search_results">Kanavahaun tulokset</string>
   <string name="morphe_channel_search_no_results">Tältä kanavalta ei löytynyt mitään</string>
   <string name="morphe_channel_search_failed">Tätä kanavaa ei voitu hakea</string>
+  <string name="morphe_channel_search_videos">Videot</string>
+  <string name="morphe_channel_search_posts">Postaukset</string>
+  <string name="morphe_channel_search_no_posts">Tältä kanavalta ei löytynyt vastaavia postauksia</string>
   <string name="morphe_channel_search_sort_relevance">Osuvuus</string>
   <string name="morphe_channel_search_sort_most_viewed">Eniten katsottu</string>
   <string name="morphe_channel_search_sort_least_viewed">Vähiten katsottu</string>

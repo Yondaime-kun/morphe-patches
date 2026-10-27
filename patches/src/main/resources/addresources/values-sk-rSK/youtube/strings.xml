@@ -409,6 +409,9 @@ Hlásenia sú verejné a pred pridaním kanála do zoznamu sa posudzujú. Odstr�
   <string name="morphe_channel_search_results">Výsledky vyhľadávania kanálov</string>
   <string name="morphe_channel_search_no_results">Na tomto kanáli sa nič nenašlo</string>
   <string name="morphe_channel_search_failed">Vyhľadávanie v tomto kanáli sa nepodarilo</string>
+  <string name="morphe_channel_search_videos">Videá</string>
+  <string name="morphe_channel_search_posts">Príspevky</string>
+  <string name="morphe_channel_search_no_posts">Na tomto kanáli sa nenašli žiadne príspevky</string>
   <string name="morphe_channel_search_sort_relevance">Relevantnosť</string>
   <string name="morphe_channel_search_sort_most_viewed">Najsledovanejšie</string>
   <string name="morphe_channel_search_sort_least_viewed">Najmenej sledované</string>

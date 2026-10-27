@@ -409,6 +409,9 @@ Rapporter er offentlige og blir gjennomgått før en kanal legges til en liste. 
   <string name="morphe_channel_search_results">Søkeresultater for kanalen</string>
   <string name="morphe_channel_search_no_results">Fant ingenting på denne kanalen</string>
   <string name="morphe_channel_search_failed">Kunne ikke søke i denne kanalen</string>
+  <string name="morphe_channel_search_videos">Videoer</string>
+  <string name="morphe_channel_search_posts">Innlegg</string>
+  <string name="morphe_channel_search_no_posts">Ingen innlegg på denne kanalen samsvarer</string>
   <string name="morphe_channel_search_sort_relevance">Relevans</string>
   <string name="morphe_channel_search_sort_most_viewed">Mest sett</string>
   <string name="morphe_channel_search_sort_least_viewed">Minst sett</string>

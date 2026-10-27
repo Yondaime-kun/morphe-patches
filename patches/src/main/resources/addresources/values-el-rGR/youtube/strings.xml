@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">Αποτελέσματα αναζήτησης καναλιών</string>
   <string name="morphe_channel_search_no_results">Δεν βρέθηκαν αποτελέσματα σε αυτό το κανάλι</string>
   <string name="morphe_channel_search_failed">Δεν ήταν δυνατή η αναζήτηση σε αυτό το κανάλι</string>
+  <string name="morphe_channel_search_videos">Βίντεο</string>
+  <string name="morphe_channel_search_posts">Αναρτήσεις</string>
+  <string name="morphe_channel_search_no_posts">Δεν βρέθηκαν αναρτήσεις σε αυτό το κανάλι που να ταιριάζουν</string>
   <string name="morphe_channel_search_sort_relevance">Συνάφεια</string>
   <string name="morphe_channel_search_sort_most_viewed">Περισσότερες προβολές</string>
   <string name="morphe_channel_search_sort_least_viewed">Λιγότερες προβολές</string>

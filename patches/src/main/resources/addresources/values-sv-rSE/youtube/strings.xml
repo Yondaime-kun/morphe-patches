@@ -409,6 +409,9 @@ Rapporter är offentliga och granskas innan en kanal läggs till i en lista. Bor
   <string name="morphe_channel_search_results">Sökresultat för kanaler</string>
   <string name="morphe_channel_search_no_results">Inget hittades i den här kanalen</string>
   <string name="morphe_channel_search_failed">Det gick inte att söka i den här kanalen</string>
+  <string name="morphe_channel_search_videos">Videor</string>
+  <string name="morphe_channel_search_posts">Inlägg</string>
+  <string name="morphe_channel_search_no_posts">Inga inlägg i den här kanalen matchar</string>
   <string name="morphe_channel_search_sort_relevance">Relevans</string>
   <string name="morphe_channel_search_sort_most_viewed">Mest visade</string>
   <string name="morphe_channel_search_sort_least_viewed">Minst visade</string>
@@ -442,6 +445,7 @@ Rapporter är offentliga och granskas innan en kanal läggs till i en lista. Bor
   <string name="morphe_post_image_download_flyout_single">Ladda ned bild</string>
   <string name="morphe_post_image_download_started">Laddar ned %s bilder …</string>
   <string name="morphe_post_image_download_started_single">Laddar ned bild…</string>
+  <string name="morphe_post_image_download_saved">%1$s bilder sparade till %2$s</string>
   <string name="morphe_post_image_download_saved_single">Bilden sparades i %s</string>
   <string name="morphe_post_image_download_failed">Det gick inte att ladda ned bilden</string>
   <string name="morphe_post_image_download_not_found">Ingen bild hittades i det här inlägget</string>

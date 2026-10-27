@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">Резултати от търсенето на канали</string>
   <string name="morphe_channel_search_no_results">Нищо не е намерено в този канал</string>
   <string name="morphe_channel_search_failed">Неуспешно търсене в този канал</string>
+  <string name="morphe_channel_search_videos">Видеа</string>
+  <string name="morphe_channel_search_posts">Публикации</string>
+  <string name="morphe_channel_search_no_posts">Няма публикации в този канал, които съвпадат</string>
   <string name="morphe_channel_search_sort_relevance">Уместност</string>
   <string name="morphe_channel_search_sort_most_viewed">Най-гледани</string>
   <string name="morphe_channel_search_sort_least_viewed">Най-малко гледани</string>
@@ -442,6 +445,7 @@ Second \"item\" text"</string>
   <string name="morphe_post_image_download_flyout_single">Изтегляне на изображение</string>
   <string name="morphe_post_image_download_started">Изтегляне на %s изображения…</string>
   <string name="morphe_post_image_download_started_single">Изтегляне на изображение…</string>
+  <string name="morphe_post_image_download_saved">%1$s изображения са запазени в %2$s</string>
   <string name="morphe_post_image_download_saved_single">Изображението е запазено в %s</string>
   <string name="morphe_post_image_download_failed">Изображението не можа да бъде изтеглено</string>
   <string name="morphe_post_image_download_not_found">В този пост не е намерено изображение</string>

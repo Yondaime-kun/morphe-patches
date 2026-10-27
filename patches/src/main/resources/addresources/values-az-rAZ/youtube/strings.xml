@@ -409,6 +409,9 @@ Məhdudiyyətlər:
   <string name="morphe_channel_search_results">Kanal axtarış nəticələri</string>
   <string name="morphe_channel_search_no_results">Bu kanalda heç nə tapılmadı</string>
   <string name="morphe_channel_search_failed">Bu kanalda axtarış etmək olmadı</string>
+  <string name="morphe_channel_search_videos">Videolar</string>
+  <string name="morphe_channel_search_posts">Postlar</string>
+  <string name="morphe_channel_search_no_posts">Bu kanalda uyğun post yoxdur</string>
   <string name="morphe_channel_search_sort_relevance">Uyğunluq</string>
   <string name="morphe_channel_search_sort_most_viewed">Ən çox baxılan</string>
   <string name="morphe_channel_search_sort_least_viewed">Ən az baxılan</string>

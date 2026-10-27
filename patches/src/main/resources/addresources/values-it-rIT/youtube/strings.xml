@@ -409,6 +409,9 @@ Le segnalazioni sono pubbliche e vengono esaminate prima che un canale venga agg
   <string name="morphe_channel_search_results">Risultati della ricerca dei canali</string>
   <string name="morphe_channel_search_no_results">Nessun risultato trovato su questo canale</string>
   <string name="morphe_channel_search_failed">Impossibile cercare in questo canale</string>
+  <string name="morphe_channel_search_videos">Video</string>
+  <string name="morphe_channel_search_posts">Post</string>
+  <string name="morphe_channel_search_no_posts">Nessun post in questo canale corrisponde</string>
   <string name="morphe_channel_search_sort_relevance">Rilevanza</string>
   <string name="morphe_channel_search_sort_most_viewed">Più visti</string>
   <string name="morphe_channel_search_sort_least_viewed">Meno visti</string>

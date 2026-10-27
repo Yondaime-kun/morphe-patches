@@ -409,6 +409,9 @@ Pranešimai yra vieši ir peržiūrimi prieš pridedant kanalą į sąrašą. Pa
   <string name="morphe_channel_search_results">Kanalo paieškos rezultatai</string>
   <string name="morphe_channel_search_no_results">Šiame kanale nieko nerasta</string>
   <string name="morphe_channel_search_failed">Nepavyko atlikti paieškos šiame kanale</string>
+  <string name="morphe_channel_search_videos">Vaizdo įrašai</string>
+  <string name="morphe_channel_search_posts">Įrašai</string>
+  <string name="morphe_channel_search_no_posts">Šiame kanale nėra sutinkančių įrašų</string>
   <string name="morphe_channel_search_sort_relevance">Aktualumas</string>
   <string name="morphe_channel_search_sort_most_viewed">Daugiausia peržiūrų</string>
   <string name="morphe_channel_search_sort_least_viewed">Mažiausiai peržiūrų</string>
@@ -442,6 +445,7 @@ Pranešimai yra vieši ir peržiūrimi prieš pridedant kanalą į sąrašą. Pa
   <string name="morphe_post_image_download_flyout_single">Atsisiųsti nuotrauką</string>
   <string name="morphe_post_image_download_started">Atsiunčiamas %s vaizdai…</string>
   <string name="morphe_post_image_download_started_single">Atsiunčiamas vaizdas…</string>
+  <string name="morphe_post_image_download_saved">%1$s nuotraukos išsaugytos į %2$s</string>
   <string name="morphe_post_image_download_saved_single">Vaizdas išsaugotas į %s</string>
   <string name="morphe_post_image_download_failed">Nepavyko atsisiųsti vaizdo</string>
   <string name="morphe_post_image_download_not_found">Šiame įraše vaizdo nerasta</string>

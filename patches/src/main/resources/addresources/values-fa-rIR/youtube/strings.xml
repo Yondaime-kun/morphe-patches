@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">نتایج جستجو در کانال</string>
   <string name="morphe_channel_search_no_results">چیزی در این کانال پیدا نشد</string>
   <string name="morphe_channel_search_failed">نمی‌توان در این کانال جست‌وجو کرد</string>
+  <string name="morphe_channel_search_videos">ویدئوها</string>
+  <string name="morphe_channel_search_posts">پست‌ها</string>
+  <string name="morphe_channel_search_no_posts">هیچ پستی در این کانال مطابقت ندارد</string>
   <string name="morphe_channel_search_sort_relevance">مرتبط‌ترین</string>
   <string name="morphe_channel_search_sort_most_viewed">بیشترین بازدید</string>
   <string name="morphe_channel_search_sort_least_viewed">کمترین بازدید</string>

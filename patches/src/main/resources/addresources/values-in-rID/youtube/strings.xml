@@ -409,6 +409,9 @@ Laporan bersifat publik dan ditinjau sebelum saluran ditambahkan ke daftar. Peng
   <string name="morphe_channel_search_results">Hasil pencarian saluran</string>
   <string name="morphe_channel_search_no_results">Tidak ada yang ditemukan di saluran ini</string>
   <string name="morphe_channel_search_failed">Tidak dapat mencari di saluran ini</string>
+  <string name="morphe_channel_search_videos">Video</string>
+  <string name="morphe_channel_search_posts">Postingan</string>
+  <string name="morphe_channel_search_no_posts">Tidak ada postingan di saluran ini yang cocok</string>
   <string name="morphe_channel_search_sort_relevance">Relevansi</string>
   <string name="morphe_channel_search_sort_most_viewed">Paling banyak ditonton</string>
   <string name="morphe_channel_search_sort_least_viewed">Paling sedikit ditonton</string>

@@ -409,6 +409,9 @@ As denúncias são públicas e são analisadas antes de um canal ser adicionado 
   <string name="morphe_channel_search_results">Resultados da pesquisa de canais</string>
   <string name="morphe_channel_search_no_results">Nada encontrado neste canal</string>
   <string name="morphe_channel_search_failed">Não foi possível pesquisar neste canal</string>
+  <string name="morphe_channel_search_videos">Vídeos</string>
+  <string name="morphe_channel_search_posts">Postagens</string>
+  <string name="morphe_channel_search_no_posts">Nenhuma postagem neste canal corresponde</string>
   <string name="morphe_channel_search_sort_relevance">Relevância</string>
   <string name="morphe_channel_search_sort_most_viewed">Mais vistos</string>
   <string name="morphe_channel_search_sort_least_viewed">Menos vistos</string>

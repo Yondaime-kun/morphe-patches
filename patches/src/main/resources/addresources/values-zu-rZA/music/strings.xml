@@ -18,6 +18,15 @@ Second \"item\" text"</string>
 <resources>
   <!-- misc.androidauto.androidAutoPatch -->
   <!-- app.morphe.patches.music.interaction.jam -->
+  <string name="morphe_music_jam_probe_title">Ukuphathisana kwe-Jam queue</string>
+  <string name="morphe_music_jam_enabled_title">Vumela ukuphathisana kwe-Jam queue</string>
+  <string name="morphe_music_jam_download_title">Landa i-Jam Layer ukuze isebenze</string>
+  <string name="morphe_music_jam_controls_title">Izilawuli ze-Jam</string>
+  <string name="morphe_music_jam_companion_package_title">Iphakheji ye-Jam Layer</string>
+  <string name="morphe_music_jam_wifi_title">Vula i-Wi-Fi?</string>
+  <string name="morphe_music_jam_wifi_settings">Vula izilungiselelo ze-Wi-Fi</string>
+  <string name="morphe_music_jam_cancel">Khansela</string>
+  <string name="morphe_music_jam_use_package">Sebenzisa iphakheji</string>
   <!-- layout.branding.customBrandingPatch -->
   <!-- layout.branding.header.changeHeaderPatch -->
   <!-- misc.album.albumMusicVideoPatch -->
@@ -25,6 +34,17 @@ Second \"item\" text"</string>
   <!-- misc.audiovideoswitch.enableAudioVideoSwitchPatch -->
   <!-- interaction.downloads.downloadsPatch -->
   <!-- 'Download' should be translated using the same localized wording YouTube displays for the menu. -->
+  <string name="morphe_music_downloads_previous">Okokuqala</string>
+  <string name="morphe_music_downloads_next">Okulandelayo</string>
+  <string name="morphe_music_downloads_pause">Yema</string>
+  <string name="morphe_music_downloads_close">Vala</string>
+  <string name="morphe_music_downloads_delete">Susa</string>
+  <string name="morphe_music_downloads_delete_track">Susa ukulanda</string>
+  <string name="morphe_music_downloads_delete_track_title">Susa ukulanda?</string>
+  <string name="morphe_music_downloads_delete_track_message">%s kuzosuswa kuleli device</string>
+  <string name="morphe_music_downloads_track_deleted">Ukulanda kususwe</string>
+  <string name="morphe_music_downloads_track_delete_failed">Kukwazalukanga ukususa ukulanda</string>
+  <string name="morphe_music_downloads_play_failed">Kukwazalukanga ukudlalisa ukulanda</string>
   <!-- misc.settings.settingsPatch -->
   <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
   <!-- ad.hideAdsPatch -->
@@ -40,12 +60,22 @@ Second \"item\" text"</string>
   <!-- layout.buttons.hideButtonsPatch -->
   <!-- layout.hide.actionbuttons.hideActionButtonsPatch -->
   <!-- 'Live chat replay' should be translated using the same localized wording YouTube Music displays for the button. -->
+  <string name="morphe_music_hide_live_chat_replay_button_title">Fihla inkinobho ethi \'Phinda ubuke i-Live chat\'</string>
   <!-- 'Lyrics' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- 'Share' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- 'Save' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- 'Download' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- 'Start radio' should be translated using the same localized wording YouTube Music displays for the button. -->
+  <string name="morphe_music_hide_radio_button_title">Fihla inkinobho ethi \'Qala umsakazo\'</string>
   <!-- flyoutmenu.components.hideFlyoutMenuComponentsPatch -->
+  <string name="morphe_music_hide_flyout_menu_go_to_episode_title">Fihla imenyu ethi \'Go to episode\'</string>
+  <string name="morphe_music_hide_flyout_menu_go_to_podcast_title">Fihla imenyu ethi \'Go to podcast\'</string>
+  <string name="morphe_music_hide_flyout_menu_mark_episode_as_played_title">Fihla imenyu ethi \'Mark episode as played\'</string>
+  <string name="morphe_music_hide_flyout_menu_not_interested_title">Fihla imenyu ethi \'Not interested\'</string>
+  <string name="morphe_music_hide_flyout_menu_pin_to_speed_dial_title">Fihla imenyu ethi \'Pin to speed dial\'</string>
+  <string name="morphe_music_hide_flyout_menu_play_next_title">Fihla imenyu ethi \'Play next\'</string>
+  <string name="morphe_music_hide_flyout_menu_remove_from_library_title">Fihla imenyu ethi \'Remove from library\'</string>
+  <string name="morphe_music_hide_flyout_menu_remove_from_playlist_title">Fihla imenyu ethi \'Remove from playlist\'</string>
   <!-- layout.startpage.changeStartPagePatch -->
   <!-- layout.orientation.forcePortraitOrientationPatch -->
   <!-- layout.miniplayer.changeMiniplayerColorPatch -->
@@ -65,9 +95,25 @@ Second \"item\" text"</string>
   <!-- 'scrobble' must be kept untranslated -->
   <!-- 'scrobble' must be kept untranslated -->
   <!-- 'scrobble' must be kept untranslated -->
+  <string name="morphe_music_listenbrainz_token_summary_logged_in">Ungenele. Thinta ukuphatha i-akhawunti</string>
   <!-- 'scrobbling' must be kept untranslated -->
+  <string name="morphe_music_listenbrainz_token_dialog_instruction">Faka i-ListenBrainz User Token yakho ukuze uvule i-scrobbling</string>
+  <string name="morphe_music_listenbrainz_token_dialog_hint">I-Token</string>
+  <string name="morphe_music_listenbrainz_token_dialog_verify">Hlola</string>
+  <string name="morphe_music_listenbrainz_token_status_empty">Sicela ufake i-token</string>
+  <string name="morphe_music_listenbrainz_token_status_valid">I-token isemthethweni! Umsebenzisi: %s</string>
+  <string name="morphe_music_listenbrainz_token_status_invalid">I-token ayikho emthethweni: %s</string>
+  <string name="morphe_music_listenbrainz_token_status_invalid_unknown">akwaziwa</string>
+  <string name="morphe_music_scrobbling_guess_album_title">Gcwalisa i-album esishodayo</string>
+  <string name="morphe_music_scrobbling_guess_album_summary">Uma umculo ungenalo i-album, yilalele ku-Last.fm ukuze i-scrobble yakho iphelele</string>
   <!-- 'scrobbling' must be kept untranslated -->
   <!-- layout.lyrics.lyricsPatch -->
+  <string name="morphe_music_lyrics_section_service_title">Inkonzo yamagama engoma</string>
+  <string name="morphe_music_lyrics_section_sync_title">Ukuhambisana</string>
+  <string name="morphe_music_lyrics_source_reset_title">Bhala kabusha uhlelo lwezihlinzeki?</string>
+  <string name="morphe_music_lyrics_source_reset_message">Buyisela izihlinzeki ohlelweni lokuqala lwezinto ezibalulekile</string>
+  <string name="morphe_music_lyrics_search_no_providers">Akukho ohlinzekileyo ovunyelwe ongakwazi ukufuna ezinye izingoma</string>
+  <string name="morphe_music_lyrics_miniplayer_title">Khombisa amazwi eMiniplayer</string>
   <!-- Shown under the lyrics. The placeholder is a service name such as LRCLIB. -->
   <!-- Tappable label under the lyrics that turns the translation on. -->
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->

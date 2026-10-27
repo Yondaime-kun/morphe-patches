@@ -409,6 +409,9 @@ Rapoartele sunt publice și sunt analizate înainte ca un canal să fie adăugat
   <string name="morphe_channel_search_results">Rezultatele căutării în canal</string>
   <string name="morphe_channel_search_no_results">Nu s-a găsit nimic în acest canal.</string>
   <string name="morphe_channel_search_failed">Nu s-a putut căuta în acest canal.</string>
+  <string name="morphe_channel_search_videos">Videoclipuri</string>
+  <string name="morphe_channel_search_posts">Postări</string>
+  <string name="morphe_channel_search_no_posts">Nicio postare de pe acest canal nu corespunde</string>
   <string name="morphe_channel_search_sort_relevance">Relevanță</string>
   <string name="morphe_channel_search_sort_most_viewed">Cele mai vizionate</string>
   <string name="morphe_channel_search_sort_least_viewed">Cele mai puțin vizionate</string>

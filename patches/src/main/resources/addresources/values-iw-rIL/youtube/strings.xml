@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">תוצאות חיפוש ערוצים</string>
   <string name="morphe_channel_search_no_results">לא נמצא דבר בערוץ זה</string>
   <string name="morphe_channel_search_failed">לא ניתן לחפש בערוץ זה</string>
+  <string name="morphe_channel_search_videos">סרטונים</string>
+  <string name="morphe_channel_search_posts">פוסטים</string>
+  <string name="morphe_channel_search_no_posts">אין פוסטים בערוץ זה התואמים לחיפוש</string>
   <string name="morphe_channel_search_sort_relevance">רלוונטיות</string>
   <string name="morphe_channel_search_sort_most_viewed">הנצפים ביותר</string>
   <string name="morphe_channel_search_sort_least_viewed">הפחות נצפים</string>
@@ -442,6 +445,7 @@ Second \"item\" text"</string>
   <string name="morphe_post_image_download_flyout_single">הורדת תמונה</string>
   <string name="morphe_post_image_download_started">הורדת %s תמונות...</string>
   <string name="morphe_post_image_download_started_single">מוריד תמונה…</string>
+  <string name="morphe_post_image_download_saved">%1$s תמונות נשמרו ב-%2$s</string>
   <string name="morphe_post_image_download_saved_single">התמונה נשמרה ב-%s</string>
   <string name="morphe_post_image_download_failed">לא ניתן להוריד את התמונה</string>
   <string name="morphe_post_image_download_not_found">לא נמצאה תמונה בפוסט זה</string>

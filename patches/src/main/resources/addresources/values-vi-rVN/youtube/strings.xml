@@ -409,6 +409,9 @@ Báo cáo được công khai và được xem xét trước khi một kênh đ�
   <string name="morphe_channel_search_results">Kết quả tìm kiếm kênh</string>
   <string name="morphe_channel_search_no_results">Không tìm thấy gì trên kênh này</string>
   <string name="morphe_channel_search_failed">Không thể tìm kiếm trên kênh này</string>
+  <string name="morphe_channel_search_videos">Video</string>
+  <string name="morphe_channel_search_posts">Bài viết</string>
+  <string name="morphe_channel_search_no_posts">Không có bài viết nào trên kênh này khớp</string>
   <string name="morphe_channel_search_sort_relevance">Mức độ liên quan</string>
   <string name="morphe_channel_search_sort_most_viewed">Xem nhiều nhất</string>
   <string name="morphe_channel_search_sort_least_viewed">Xem ít nhất</string>

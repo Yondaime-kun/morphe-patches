@@ -409,6 +409,9 @@ Pampubliko ang mga ulat at sinusuri ang mga ito bago idagdag ang isang channel s
   <string name="morphe_channel_search_results">Mga resulta ng paghahanap sa channel</string>
   <string name="morphe_channel_search_no_results">Walang nahanap sa channel na ito</string>
   <string name="morphe_channel_search_failed">Hindi ma-search ang channel na ito</string>
+  <string name="morphe_channel_search_videos">Mga Video</string>
+  <string name="morphe_channel_search_posts">Mga Post</string>
+  <string name="morphe_channel_search_no_posts">Walang mga post sa channel na ito ang tumutugma</string>
   <string name="morphe_channel_search_sort_relevance">Kaugnayan</string>
   <string name="morphe_channel_search_sort_most_viewed">Pinakamaraming napanood</string>
   <string name="morphe_channel_search_sort_least_viewed">Pinakakaunting napanood</string>

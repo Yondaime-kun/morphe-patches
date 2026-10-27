@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">ผลการค้นหาช่อง</string>
   <string name="morphe_channel_search_no_results">ไม่พบผลลัพธ์ในช่องนี้</string>
   <string name="morphe_channel_search_failed">ไม่สามารถค้นหาช่องนี้ได้</string>
+  <string name="morphe_channel_search_videos">วิดีโอ</string>
+  <string name="morphe_channel_search_posts">โพสต์</string>
+  <string name="morphe_channel_search_no_posts">ไม่มีโพสต์ในช่องนี้ที่ตรงกัน</string>
   <string name="morphe_channel_search_sort_relevance">ความเกี่ยวข้อง</string>
   <string name="morphe_channel_search_sort_most_viewed">ดูมากที่สุด</string>
   <string name="morphe_channel_search_sort_least_viewed">ดูน้อยที่สุด</string>

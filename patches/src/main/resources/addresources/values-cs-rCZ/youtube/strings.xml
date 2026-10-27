@@ -409,6 +409,9 @@ Hlášení jsou veřejná a před přidáním kanálu do seznamu jsou kontrolov�
   <string name="morphe_channel_search_results">Výsledky vyhledávání kanálů</string>
   <string name="morphe_channel_search_no_results">Na tomto kanálu se nic nenašlo</string>
   <string name="morphe_channel_search_failed">Tento kanál se nepodařilo prohledat</string>
+  <string name="morphe_channel_search_videos">Videa</string>
+  <string name="morphe_channel_search_posts">Príspevky</string>
+  <string name="morphe_channel_search_no_posts">Na tomto kanálu nebyly nalezeny žádné príspevky</string>
   <string name="morphe_channel_search_sort_relevance">Relevantnost</string>
   <string name="morphe_channel_search_sort_most_viewed">Nejvíce zhlédnuté</string>
   <string name="morphe_channel_search_sort_least_viewed">Nejméně zhlédnuté</string>

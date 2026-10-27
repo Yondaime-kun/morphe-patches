@@ -555,8 +555,29 @@ Second \"item\" text"</string>
   <string name="morphe_music_lyrics_mediasession_summary">Показує поточний рядок на екрані блокування, в Android Auto та через Bluetooth. Потрібен Android 11 або новіший</string>
   <string name="morphe_music_lyrics_miniplayer_title">Показувати текст пісні в мініплеєрі</string>
   <string name="morphe_music_lyrics_miniplayer_summary">Показує поточний рядок у мініплеєрі, а трек переноситься в підзаголовок</string>
-  <string name="morphe_music_lyrics_display_artist_first_title">Порядок відображення виконавця та назви</string>
-  <string name="morphe_music_lyrics_display_artist_first_summary">Перемикнути порядок показу виконавця та назви в мініплеєрі та MediaSession. Увімкнено - \"Виконавець - Назва\", вимкнено - \"Назва - Виконавець\". Не впливає на пошук текстів пісень</string>
+  <string name="morphe_music_lyrics_mini_track_format_title">Формат назви пісні/виконавця</string>
+  <string name="morphe_music_lyrics_mini_track_format_summary">Формат треку, що відображається з текстом пісні в мініплеєрі та MediaSession. {t} — це назва, {a} — виконавець, а {v} — версія (наприклад, Acoustic), якщо вона вказана в джерелі тексту. Текст між двома двокрапками відображається лише тоді, коли кожна змінна всередині має значення; використовуйте \\: для звичайної двокрапки. Кожен рядок відображається по черзі, змінюючись разом із текстом пісні</string>
+  <string name="morphe_music_lyrics_mini_encapsulation_title">Формат рядка тексту пісні</string>
+  <string name="morphe_music_lyrics_mini_encapsulation_summary">Формат рядка тексту пісні в мініплеєрі та MediaSession. {lrc} — це рядок, а {n} — кількість разів, скільки він співається поспіль. Текст між двокрапками відображається лише тоді, коли рядок повторюється. Використовуйте \\: для двокрапки</string>
+  <string name="morphe_music_lyrics_mini_encapsulation_invalid">Формат має містити {lrc}</string>
+  <string name="morphe_music_lyrics_mini_track_format_menu_summary">Шаблон рядка виконавця та час анімації</string>
+  <string name="morphe_music_lyrics_mini_artist_min_label">Мінімальний час на екрані (мс)</string>
+  <string name="morphe_music_lyrics_mini_artist_max_label">Максимальний час на екрані (мс)</string>
+  <string name="morphe_music_lyrics_mini_artist_timing_explanation">Тільки для багаторядкових анімацій. Тримайте кожен кадр щонайменше мінімальний час. При досягненні максимуму рядок виконавця просувається навіть тоді, коли текст пісні залишається незмінним.</string>
+  <string name="morphe_music_lyrics_mini_artist_timing_invalid">Мінімум має бути 0 або більше. Максимум має бути більше 0 і щонайменше дорівнювати мінімуму.</string>
+  <string name="morphe_music_lyrics_mini_line_limits_title">Обмеження довжини рядка</string>
+  <string name="morphe_music_lyrics_mini_line_limits_summary">Обмеження рядків пісні та виконавця, а також вага повноширичних символів</string>
+  <string name="morphe_music_lyrics_mini_line_limits_lyrics">"Обмеження рядка пісні
+Розділити довші тексти пісень на збалансовані половини. 0 вимикає розділення."</string>
+  <string name="morphe_music_lyrics_mini_line_limits_artist">"Ліміт рядків виконавця
+Розділити заповнений формат треку на циклічні кадри. 0 вимикає розділення."</string>
+  <string name="morphe_music_lyrics_mini_line_limits_weight">"Вага повноширичних символів
+Застосовується до обох лімітів. При 1.75 чотири повноширичні символи рахуються як 7."</string>
+  <string name="morphe_music_lyrics_mini_line_limits_invalid">Введіть цілочисельні ліміти від 0 до 10000 та вагу символів більше 0</string>
+  <string name="morphe_music_lyrics_mini_instrumental_title">Інструментальна пауза</string>
+  <string name="morphe_music_lyrics_mini_instrumental_summary">Відображається в мініплеєрі та MediaSession під час інструментальної паузи. Кожен рядок — це один кадр анімації. {t} — це назва, {a} — виконавець, а {lrc} — останній рядок тексту пісні</string>
+  <string name="morphe_music_lyrics_mini_next_offset_ms_title">Зміщення часу в мініплеєрі та MediaSession</string>
+  <string name="morphe_music_lyrics_mini_next_offset_ms_summary">Зміщує час відображення наступного рядка в мініплеєрі та MediaSession. Використовуйте від\'ємне значення, якщо рядки з\'являються із запізненням, наприклад, на екрані блокування</string>
   <string name="morphe_settings_music_lyrics_metadata_title">Фільтри</string>
   <string name="morphe_music_lyrics_custom_regex_title">Регулярний вираз для метаданих</string>
   <string name="morphe_music_lyrics_custom_regex_summary">Регулярний вираз, застосований до назв, виконавців та альбомів перед пошуком тексту пісні та при оцінці відповідності двох назв. Залиште порожнім, щоб вимкнути обидва. Типове значення видаляє типове сміття, наприклад \"Official Video\", \"Remaster\", \"【插曲】\" та \"- Topic\"</string>
@@ -564,6 +585,10 @@ Second \"item\" text"</string>
   <string name="morphe_music_lyrics_text_filter_summary">Регулярний вираз, що застосовується лише до оригінального тексту пісні (не до перекладів чи романізацій). Залиште порожнім, щоб вимкнути</string>
   <string name="morphe_music_lyrics_credit_line_regex_title">Маркери інформаційного рядка</string>
   <string name="morphe_music_lyrics_credit_line_regex_summary">Якщо тексти пісень неправильно відфільтровано вниз, налаштуйте або очистіть це. Маркери, розділені комами: рядки, що містять маркер, за яким іде двокрапка, показуються як інформація про авторів унизу. Залиште порожнім, щоб вимкнути</string>
+  <string name="morphe_music_lyrics_force_capitalize_title">Писати першу літеру великою</string>
+  <string name="morphe_music_lyrics_force_capitalize_summary">Пише першу літеру кожного рядка тексту пісні великою</string>
+  <string name="morphe_music_lyrics_strip_trailing_punctuation_title">Видалити кінцеві розділові знаки</string>
+  <string name="morphe_music_lyrics_strip_trailing_punctuation_summary">Видаляє крапки, коми, двокрапки та крапки з комою в кінці рядків тексту пісні. Знаки питання, оклику, трикрапки, лапки та дужки залишаються</string>
   <string name="morphe_music_lyrics_text_size_title">Розмір тексту</string>
   <string name="morphe_music_lyrics_text_size_summary">Розмір тексту пісні</string>
   <string name="morphe_music_lyrics_offset_ms_title">Глобальний зсув часу</string>

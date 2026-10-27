@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">نتائج البحث في القناة</string>
   <string name="morphe_channel_search_no_results">لا توجد نتائج في هذه القناة</string>
   <string name="morphe_channel_search_failed">تعذر البحث في هذه القناة</string>
+  <string name="morphe_channel_search_videos">الفيديوهات</string>
+  <string name="morphe_channel_search_posts">المنشورات</string>
+  <string name="morphe_channel_search_no_posts">لا توجد منشورات في هذه القناة تطابق البحث</string>
   <string name="morphe_channel_search_sort_relevance">مدى الصلة</string>
   <string name="morphe_channel_search_sort_most_viewed">الأكثر مشاهدةً</string>
   <string name="morphe_channel_search_sort_least_viewed">الأقل مشاهدةً</string>

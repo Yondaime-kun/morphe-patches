@@ -409,6 +409,9 @@ A jelentések nyilvánosak, és felülvizsgálják őket, mielőtt egy csatorna 
   <string name="morphe_channel_search_results">Csatornakeresési eredmények</string>
   <string name="morphe_channel_search_no_results">Nincs találat ezen a csatornán</string>
   <string name="morphe_channel_search_failed">Nem sikerült keresni ezen a csatornán</string>
+  <string name="morphe_channel_search_videos">Videók</string>
+  <string name="morphe_channel_search_posts">Bejegyzések</string>
+  <string name="morphe_channel_search_no_posts">Nincs egybeezlető bejegyzés ezen a csatornán</string>
   <string name="morphe_channel_search_sort_relevance">Relevancia</string>
   <string name="morphe_channel_search_sort_most_viewed">Legnézettebb</string>
   <string name="morphe_channel_search_sort_least_viewed">Legkevésbé nézett</string>

@@ -409,6 +409,9 @@ Second \"item\" text"</string>
   <string name="morphe_channel_search_results">Резултати претраге канала</string>
   <string name="morphe_channel_search_no_results">Ништа није пронађено на овом каналу</string>
   <string name="morphe_channel_search_failed">Претрага овог канала није успела</string>
+  <string name="morphe_channel_search_videos">Видео снимци</string>
+  <string name="morphe_channel_search_posts">Објаве</string>
+  <string name="morphe_channel_search_no_posts">Нема објава на овом каналију које одговарају претрази</string>
   <string name="morphe_channel_search_sort_relevance">Релевантност</string>
   <string name="morphe_channel_search_sort_most_viewed">Најгледанији</string>
   <string name="morphe_channel_search_sort_least_viewed">Најмање гледани</string>

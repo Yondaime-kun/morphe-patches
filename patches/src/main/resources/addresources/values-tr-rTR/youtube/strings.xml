@@ -410,6 +410,9 @@ Raporlar herkese açıktır ve bir kanal listeye eklenmeden önce incelenir. Kal
   <string name="morphe_channel_search_results">Kanal arama sonuçları</string>
   <string name="morphe_channel_search_no_results">Bu kanalda sonuç bulunamadı</string>
   <string name="morphe_channel_search_failed">Bu kanalda arama yapılamadı</string>
+  <string name="morphe_channel_search_videos">Videolar</string>
+  <string name="morphe_channel_search_posts">Gönderiler</string>
+  <string name="morphe_channel_search_no_posts">Bu kanalda eşleşen gönderi bulunamadı</string>
   <string name="morphe_channel_search_sort_relevance">Alaka</string>
   <string name="morphe_channel_search_sort_most_viewed">En çok izlenen</string>
   <string name="morphe_channel_search_sort_least_viewed">En az izlenen</string>
@@ -1122,9 +1125,9 @@ Otomotiv düzeni
   <string name="morphe_tablet_layout_in_player_summary">"Eski oynatıcı düzenini geri yükler
 
 Sınırlamalar: 'Eski video eylem çubuğunu geri yükle' kapatılırsa, 'Daha fazla video' katmanı kullanılamayabilir"</string>
-  <string name="morphe_tablet_layout_in_player_user_dialog_message">"Bunu etkinleştirilmek, oynatıcının altında gösterilen yorumlar veya 'Daha fazla video' kısımları gibi bazı oynatıcı düzen özelliklerini bozabilir.
+  <string name="morphe_tablet_layout_in_player_user_dialog_message">"Bunu etkinleştirmek, oynatıcının altında gösterilen yorumlar veya 'Daha fazla video' kısımları gibi bazı oynatıcı düzen özelliklerini bozabilir.
 
-Tablet düzeni artık YouTube tarafından desteklenmiyor ve güncel YouTube sürümlerinde kısmen veya tamamen bozulmuş durumda. Çalışan bir tablet düzeni için, Youtube 20.21.37'yi yamalayın"</string>
+Tablet düzeni artık YouTube tarafından desteklenmiyor ve güncel YouTube sürümlerinde kısmen veya tamamen bozulmuş durumda. Çalışan bir tablet düzeni için, YouTube 20.21.37'yi yamalayın"</string>
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
   <string name="morphe_spoof_app_version_target_entry_21_11">21.11.48 - Eski altyazı davranışını geri yükle</string>
   <string name="morphe_spoof_app_version_target_entry_20_39">20.39.41 - Oynatma listesine kaydetme için eski düzeni geri getir</string>

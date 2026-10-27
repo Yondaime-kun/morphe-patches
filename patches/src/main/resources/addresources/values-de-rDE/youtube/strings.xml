@@ -410,6 +410,9 @@ Meldungen sind öffentlich und werden überprüft, bevor ein Kanal zu einer List
   <string name="morphe_channel_search_results">Kanal-Suchergebnisse</string>
   <string name="morphe_channel_search_no_results">Auf diesem Kanal wurde nichts gefunden.</string>
   <string name="morphe_channel_search_failed">Dieser Kanal konnte nicht durchsucht werden.</string>
+  <string name="morphe_channel_search_videos">Videos</string>
+  <string name="morphe_channel_search_posts">Beiträge</string>
+  <string name="morphe_channel_search_no_posts">Keine Beiträge in diesem Kanal entsprechen der Suche</string>
   <string name="morphe_channel_search_sort_relevance">Relevanz</string>
   <string name="morphe_channel_search_sort_most_viewed">Am häufigsten gesehen</string>
   <string name="morphe_channel_search_sort_least_viewed">Am wenigsten gesehen</string>
